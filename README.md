@@ -35,19 +35,6 @@ DAB Music Player is a premium desktop music streaming application designed for a
 - Hardware-accelerated audio decoding
 - Direct audio path for bit-perfect output
 
-### Advanced Audio Processing
-- **10-Band Parametric Equalizer** with customizable presets
-- **Real-time Audio Visualization** 
-- **Volume Normalization** for consistent listening levels
-- **Bass Enhancement** and audio effects
-- **Tempo Control** without pitch distortion
-
-### USB DAC & External Device Support
-- Automatic detection of USB DACs
-- Exclusive mode for dedicated audio devices
-- ASIO-like low-latency output
-- Support for high-impedance headphones
-
 ---
 
 ## 🎨 User Interface
@@ -89,7 +76,6 @@ DAB Music Player is a premium desktop music streaming application designed for a
 ### Lyrics Support
 - Real-time synchronized lyrics
 - Lyrics fetching from multiple sources
-- Manual lyrics search
 - Elegant lyrics display overlay
 
 ---
@@ -122,22 +108,6 @@ DAB Music Player is a premium desktop music streaming application designed for a
 
 ---
 
-## 💾 Offline & Downloads
-
-### Download Manager
-- Download albums and tracks for offline listening
-- Multiple quality options (Standard, High, Maximum)
-- Background downloading
-- Download queue management
-
-### Offline Mode
-- Seamless offline playback
-- Automatic sync when online
-- Storage management tools
-- Downloaded content organization
-
----
-
 ## ❤️ Personal Features
 
 ### Favorites
@@ -145,12 +115,6 @@ DAB Music Player is a premium desktop music streaming application designed for a
 - Favorites synchronization
 - Organized favorites library
 - Easy favorites management
-
-### Playlists
-- Create custom playlists
-- Import playlists from Spotify
-- Playlist sharing
-- Smart playlist suggestions
 
 ### Library Management
 - Personal music library
@@ -193,7 +157,7 @@ DAB Music Player is a premium desktop music streaming application designed for a
 - **Processor:** Intel Core i5 / AMD Ryzen 5 or better
 - **RAM:** 8 GB or more
 - **Storage:** SSD recommended for faster loading
-- **Audio:** USB DAC or high-quality sound card
+- **Audio:** Any audio output device
 
 ---
 
@@ -204,12 +168,6 @@ DAB Music Player is a premium desktop music streaming application designed for a
 2. Run the installer and follow the prompts
 3. Choose installation directory (default: `C:\Program Files\DAB Music`)
 4. Launch DAB Music from the Start Menu or Desktop shortcut
-
-### Portable Version
-1. Download the portable ZIP from releases
-2. Extract to your preferred location
-3. Run `dab.exe` directly
-4. No installation required
 
 ---
 
@@ -233,21 +191,8 @@ DAB Music Player is a premium desktop music streaming application designed for a
 
 ### Playback
 - Default audio quality selection
-- Crossfade duration
 - Gapless playback toggle
-- Volume normalization
 
-### Downloads
-- Download quality preferences
-- Storage location
-- Automatic download settings
-- Cache management
-
-### Audio Output
-- Output device selection
-- Exclusive mode toggle
-- Sample rate configuration
-- Buffer size adjustment
 
 ---
 
@@ -275,14 +220,12 @@ DAB Music Player is a premium desktop music streaming application designed for a
 
 ## 📝 Version History
 
-### v2.9.5 (Latest)
+### v1.0.0 (Latest)
 - New Windows-native UI with glassmorphic design
 - Immersion mode for full-screen experience
 - Enhanced keyboard shortcuts
 - Improved audio quality indicators
 - Performance optimizations
-
-### v2.9.0
 - Initial Windows release
 - High-resolution audio support
 - Native audio engine integration
@@ -295,15 +238,45 @@ DAB Music Player is a premium desktop music streaming application designed for a
 DAB Music Player is developed with passion for music and audio quality. If you enjoy the app, consider supporting its development:
 
 - ⭐ Star the project
-- 🐛 Report bugs and issues
-- 💡 Suggest new features
-- ☕ Buy the developer a coffee
+- ❤️ Donate via the app
+
 
 ---
 
 ## 📄 License
 
-DAB Music Player uses external audio processing libraries for high-quality audio playback. Please refer to the respective library documentation for licensing details.
+All rights reserved.
+
+This project is NOT open source.
+
+Any source code that is publicly visible is provided strictly for
+reference, educational, and review purposes only.
+
+PERMISSIONS
+- You are permitted to download and use the official compiled release files
+  (binaries) for personal, non-commercial use only.
+
+RESTRICTIONS
+- Commercial use of this software or any part of it is strictly prohibited.
+- Redistribution of binaries, modified or unmodified, is not allowed.
+- Redistribution of source code, in whole or in part, is not allowed.
+- Modification, reverse engineering, decompilation, or creation of derivative
+  works based on the source code or binaries is prohibited.
+- The source code may not be reused in other projects, whether open or closed source.
+
+SOURCE AVAILABILITY
+- Portions of the source code may be publicly visible.
+- Visibility of source code does NOT grant permission to use, copy, modify,
+  or redistribute it.
+
+OWNERSHIP
+- All intellectual property rights remain with their respective owners.
+
+EXCEPTIONS
+- Any usage outside the permissions stated above requires explicit authorization
+  from the rights holder(s).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ---
 
@@ -312,5 +285,5 @@ DAB Music Player uses external audio processing libraries for high-quality audio
 </p>
 
 <p align="center">
-  <em>© 2024-2026 DAB Music Player. All rights reserved.</em>
+  <em>© 2025-2026 DAB Music Player. All rights reserved.</em>
 </p>

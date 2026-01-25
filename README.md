@@ -1,7 +1,7 @@
 # DAB Music Player for Windows
 
 <p align="center">
-  <img src="banner.jpg" alt="DAB Music Player" width="300"/>
+  <img src="banner.jpg" alt="DAB Music Player" width="900"/>
 </p>
 
 <p align="center">

@@ -14,6 +14,32 @@
 
 ---
 
+## ⚠️ Disclaimer
+
+> **Legal Notice & Responsibility**
+>
+> DAB Windows is an independent application developed for educational, personal, and technical demonstration purposes only.
+>
+> This application **does NOT host, store, upload, or distribute any media content**. All content accessed through the application is obtained from **third-party APIs and external services**.
+>
+> The software functions solely as a **client interface** that connects users to externally provided resources.
+>
+> The developer:
+>
+> - ❌ Does **not own, control, or operate** any third-party servers or APIs  
+> - ❌ Does **not upload or distribute copyrighted material**  
+> - ❌ Is **not responsible** for the legality, accuracy, or availability of external content  
+>
+> By using this application, you acknowledge and agree that:
+>
+> - ✅ You use the software **at your own risk and responsibility**  
+> - ✅ You are responsible for ensuring compliance with **local laws and regulations**  
+> - ✅ Any misuse, copyright infringement, or illegal activity is **solely the responsibility of the end user**  
+>
+> If you are a content owner and believe your rights are being violated, please contact the respective third-party service providers directly.
+
+---
+
 ## ✨ Overview
 
 DAB Music Player is a premium desktop music streaming application designed for audiophiles and music enthusiasts who demand the highest audio quality. Built with a sophisticated native audio engine and a stunning glassmorphic interface, DAB delivers an unparalleled listening experience on Windows.
@@ -144,102 +170,7 @@ DAB Music Player is a premium desktop music streaming application designed for a
 ---
 
 ## 🔧 System Requirements
-
-### Minimum Requirements
-- **OS:** Windows 10 (64-bit) version 1903 or later
-- **Processor:** Intel Core i3 / AMD Ryzen 3 or equivalent
-- **RAM:** 4 GB
-- **Storage:** 200 MB for installation
-- **Audio:** Any audio output device
-
-### Recommended Requirements
-- **OS:** Windows 11 (64-bit)
-- **Processor:** Intel Core i5 / AMD Ryzen 5 or better
-- **RAM:** 8 GB or more
-- **Storage:** SSD recommended for faster loading
-- **Audio:** Any audio output device
-
----
-
-## 📦 Installation
-
-### Using the Installer
-1. Download the latest `DAB_Music_Setup.exe` from releases
-2. Run the installer and follow the prompts
-3. Choose installation directory (default: `C:\Program Files\DAB Music`)
-4. Launch DAB Music from the Start Menu or Desktop shortcut
-
----
-
-## 🔐 Account & Sync
-
-- Secure account authentication
-- Cross-device synchronization
-- Favorites and playlists sync
-- Listening history sync
-- Secure token-based authentication
-
----
-
-## ⚙️ Settings & Customization
-
-### Appearance
-- Dark / Light theme toggle
-- Immersion mode preferences
-- Animation settings
-- Accent color customization
-
-### Playback
-- Default audio quality selection
-- Gapless playback toggle
-
-
----
-
-## 🛠️ Troubleshooting
-
-### Audio Issues
-- Ensure audio drivers are up to date
-- Check output device selection in Settings
-- Disable exclusive mode if experiencing conflicts
-- Restart the application after changing audio devices
-
-### Performance
-- Close unnecessary background applications
-- Ensure Windows is updated
-- Clear application cache in Settings
-- Check available storage space
-
-### Network
-- Verify internet connection
-- Check firewall settings
-- Try disabling VPN if streaming issues occur
-- Clear DNS cache if connection problems persist
-
----
-
-## 📝 Version History
-
-### v1.0.0 (Latest)
-- New Windows-native UI with glassmorphic design
-- Immersion mode for full-screen experience
-- Enhanced keyboard shortcuts
-- Improved audio quality indicators
-- Performance optimizations
-- Initial Windows release
-- High-resolution audio support
-- Native audio engine integration
-- System tray support
-
----
-
-## 💖 Support Development
-
-DAB Music Player is developed with passion for music and audio quality. If you enjoy the app, consider supporting its development:
-
-- ⭐ Star the project
-- ❤️ Donate via the app
-
+(unchanged…)
 
 ---
 
@@ -249,32 +180,15 @@ All rights reserved.
 
 This project is NOT open source.
 
-Any source code that is publicly visible is provided strictly for
-reference, educational, and review purposes only.
+Any source code that is publicly visible is provided strictly for reference, educational, and review purposes only.
 
 PERMISSIONS
-- You are permitted to download and use the official compiled release files
-  (binaries) for personal, non-commercial use only.
+- You are permitted to download and use the official compiled release files (binaries) for personal, non-commercial use only.
 
 RESTRICTIONS
-- Commercial use of this software or any part of it is strictly prohibited.
-- Redistribution of binaries, modified or unmodified, is not allowed.
-- Redistribution of source code, in whole or in part, is not allowed.
-- Modification, reverse engineering, decompilation, or creation of derivative
-  works based on the source code or binaries is prohibited.
-- The source code may not be reused in other projects, whether open or closed source.
-
-SOURCE AVAILABILITY
-- Portions of the source code may be publicly visible.
-- Visibility of source code does NOT grant permission to use, copy, modify,
-  or redistribute it.
-
-OWNERSHIP
-- All intellectual property rights remain with their respective owners.
-
-EXCEPTIONS
-- Any usage outside the permissions stated above requires explicit authorization
-  from the rights holder(s).
+- Commercial use is strictly prohibited.
+- Redistribution is not allowed.
+- Modification, reverse engineering, or reuse is prohibited.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
